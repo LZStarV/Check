@@ -1,0 +1,82 @@
+[
+  {
+    "name": "基础英语",
+    "srId": 319084,
+    "checkTime": "08:25",
+    "startDate": "2024-09-03",
+    "weekNumber": 10,
+    "Date": "2024-11-05"
+  },
+  {
+    "name": "python语言程序设计",
+    "srId": 469107,
+    "checkTime": "10:15",
+    "startDate": "2024-09-06",
+    "weekNumber": 9,
+    "Date": "2024-11-01"
+  },
+  {
+    "name": "离散数学",
+    "srId": 328765,
+    "checkTime": "08:25",
+    "startDate": "2024-09-06",
+    "weekNumber": 9,
+    "Date": "2024-11-01"
+  },
+  {
+    "name": "计算机组成原理1",
+    "srId": 338617,
+    "checkTime": "10:15",
+    "startDate": "2024-09-03",
+    "weekNumber": 10,
+    "Date": "2024-11-05"
+  },
+  {
+    "name": "计算机组成原理2",
+    "srId": 338629,
+    "checkTime": "10:15",
+    "startDate": "2024-09-04",
+    "weekNumber": 10,
+    "Date": "2024-11-06"
+  },
+  {
+    "name": "数据结构1",
+    "srId": 340769,
+    "checkTime": "16:05",
+    "startDate": "2024-09-03",
+    "weekNumber": 10,
+    "Date": "2024-11-05"
+  },
+  {
+    "name": "数据结构2",
+    "srId": 340783,
+    "checkTime": "10:15",
+    "startDate": "2024-09-05",
+    "weekNumber": 10,
+    "Date": "2024-11-07"
+  },
+  {
+    "name": "数据结构实验",
+    "srId": 347585,
+    "checkTime": "18:55",
+    "startDate": "2024-09-03",
+    "weekNumber": 10,
+    "Date": "2024-11-05"
+  },
+  {
+    "name": "概率论与数理统计",
+    "srId": 361157,
+    "checkTime": "08:25",
+    "startDate": "2024-09-02",
+    "weekNumber": 10,
+    "Date": "2024-11-04"
+  },
+  {
+    "name": "大学物理",
+    "srId": 365114,
+    "checkTime": "08:25",
+    "startDate": "2024-09-05",
+    "weekNumber": 10,
+    "Date": "2024-11-07"
+  }
+]
